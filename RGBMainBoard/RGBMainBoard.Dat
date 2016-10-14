@@ -1,0 +1,27 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RGBMainBoard.PrjPcb|ReportField=ProjectFullPath~C:\RGBMainBoard\trunk\RGBMainBoard\RGBMainBoard.PrjPcb|ReportField=Title~Bill of Materials For Project [RGBMainBoard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~66|ReportField=ReportTime~23:42:14|ReportField=ReportDate~03/10/2016|ReportField=ReportDateTime~03/10/2016 23:42:14|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~03/10/2016|ReportField=CurrentTime~23:42:12|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\RGBMainBoard\trunk\RGBMainBoard\SCH\RGBMainBoard - SCH.SchDoc|ReportField=DocumentName~RGBMainBoard - SCH.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~03/10/2016|ReportField=Organization~|ReportField=ProjectName~RGBMainBoard.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~2|ReportField=SheetTotal~9|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RGBMainBoard.PrjPcb|ReportField=DataSourceFullPath~C:\RGBMainBoard\trunk\RGBMainBoard\RGBMainBoard.PrjPcb
+100nF 50V||C1, C4, C6, C8, C9, C10, C11, C13, C14, C18|C0805|CC 100nF 50V 0805|10
+100uF 25V|C.Elet.1000uF 25V 20% Radial|C2|CAP100P_D6.3H11|CE 100uF 25V PTH|1
+10uF 25V||C3, C5, C12|C1206|CC 10uF 25V 1206|3
+1nF 50V||C7, C15, C16, C17, C19|C0805|CC 1nF 50V 0805|5
+BORNE 4P 3.81|CON BORNE 4P 3.81 PTH|CN1, CN4|BORNE 4P 3.81 PTH|CON BORNE 4P 3.81 PTH|2
+CON BARRA 1x2 180 MACHO PTH|Barra de pinos simples 1x2 180g. 2,54mm|CN2, CN3, CN7|BARRA2PM180|CON BARRA 1x2 180 MACHO PTH|3
+BORNE 3P 3.81|CON BORNE 3P 3.81 PTH|CN5|BORNE 3P 3.81 PTH|CON BORNE 3P 3.81 PTh|1
+CON BARRA 1x6 180 MACHO PTH  17mm|Barra de pinos simples 1x6 180g. 2,54mm|CN6|BARRA1x6PM180-17mm|CON BARRA 1x6 180 MACHO PTH  17mm|1
+1N4007|Diodo 1N4007 (S1M-E3/5AT) DO214AC/SMA|D1, D2, D3, D4, D5|DO214AC-SMA|D 1N4007 SMD|5
+3,3V 1/2W|Zener 3,3V 1/2W MINIMELF|D6|SOD80-MINIMELF|DZ 3,3V 1/2W MINIMELF|1
+Fiducial|Fiducial|FD1, FD2, FD3|Fiducial|Fiducial|3
+BARRA6PF180|Barra de pinos simples 1x6 180g. 2,54mm|JP1, JP2, JP3|BARRA6PF180|CON BARRA 1X6 180 FEMEA PTH|3
+IRFZ48NPbF|TRAN CANAL N IRFZ48NPbF TO220|Q1, Q2, Q3|TO220AB|TRAN CANAL N IRFZ48NPbF TO220|3
+BC817|SMT NPN 45V 0.5A SOT23 General Purpose Transistor|Q4|SOT23|TRAN NPN BC817 SOT-23-3|1
+BC807|SMT PNP 45V 0,8A SOT23 General Purpose Transistor|Q5, Q6|SOT23|TRAN PNP BC807 SOT-23-3|2
+10R 1%|RES 10R 1% 0805|R1, R2, R4|R0805|RES 10R 1% 0805|3
+10K 1%|RES 10K 1% 0805|R3, R7, R8, R9, R10, R14, R15|R0805|RES 10K 1% 0805|7
+1K 1%|RES 1K 1% 0805|R5|R0805|RES 1K 1% 0805|1
+1K 5% 2W|RES 1K 5% 2W PTH|R6|RES2W_L16mm_D5.5|RES 1K 5% 2W PTH|1
+1K5 1%|RES 1K5 1% 0805|R11, R12, R13|R0805|RES 1K5 1% 0805|3
+|Preencher com o código da placa. Irá aparecer na serigrafia.|Revisao_PCI|NULL_FOOTPRINT|CODIGO PCI|1
+MC78M05CD|5V 1A DPAK-3 3 Terminal  Positive Voltage Regulator|RG1|DPAK|CI REG LIN 5V MC78M05CD DPAK|1
+RELE 5V UB2-5NU|Relé 5V UB2-5NU|RL1, RL2|RELE UB2-5NU|RELE 5V UB2-5NU|2
+AP2210K-3,3V|AP2210 300mA RF ULDO REGLATOR SOT23-5|U1|SOT23_5|CI REG LDO 3,3V AP2210K|1
+C8051F930|C8051F930 LQFP32|U2|LQFP32 7X7|CI PROC C8051F930 LQFP32|1
+LM358D|Low Power Dual Operational Amplifier SMT SO8|U3|SO8|CI LM358D SO8|1
